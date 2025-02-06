@@ -1,4 +1,4 @@
-# PhC-Biosensor
+# Numerical modelling of a highly sensitive surface plasmon sensor using silicon and platinum diselenide stacks
 
 This repository contains the implementation of a one-dimensional photonic crystal (1D PhC) based Surface Plasmon Resonance (SPR) sensor designed for biomolecular detection. The sensor utilizes aluminum as the plasmonic metal, combined with silicon and platinum diselenide layers for enhanced sensing capabilities.
 
