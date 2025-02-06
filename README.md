@@ -37,18 +37,10 @@ The repository includes scripts for:
 
 ## References
 
-1. **Panda, Abinash, Pukhrambam, Puspa, Dadure, Pankaj, & Pakray, Dr. Partha.** (2022).  
-   *Application of Machine Learning for Accurate Detection of Hemoglobin Concentrations Employing Defected 1D Photonic Crystal.*  
-   _Silicon, 14_. [https://doi.org/10.1007/s12633-022-01926-x](https://doi.org/10.1007/s12633-022-01926-x)  
+1. **Panda, Abinash, Pukhrambam, Puspa, Dadure, Pankaj, & Pakray, Dr. Partha.** (2022). *Application of Machine Learning for Accurate Detection of Hemoglobin Concentrations Employing Defected 1D Photonic Crystal.* _Silicon, 14_. [https://doi.org/10.1007/s12633-022-01926-x](https://doi.org/10.1007/s12633-022-01926-x)  
 
-2. **Shukla, S., Grover, N., & Arora, P.** (2023).  
-   *Resolution enhancement using a multi-layered aluminum-based plasmonic device for chikungunya virus detection.*  
-   _Opt Quant Electron, 55_, 274. [https://doi.org/10.1007/s11082-022-04485-y](https://doi.org/10.1007/s11082-022-04485-y)  
+2. **Shukla, S., Grover, N., & Arora, P.** (2023). *Resolution enhancement using a multi-layered aluminum-based plasmonic device for chikungunya virus detection.*  _Opt Quant Electron, 55_, 274. [https://doi.org/10.1007/s11082-022-04485-y](https://doi.org/10.1007/s11082-022-04485-y)  
 
-3. **Uniyal, A., Pal, A., & Chauhan, B.** (2023).  
-   *Long-range SPR sensor employing platinum diselenide and cytop nanolayers giving improved performance.*  
-   _Physica B: Condensed Matter, 649_, 414487. [https://doi.org/10.1016/j.physb.2022.414487](https://doi.org/10.1016/j.physb.2022.414487)  
+3. **Uniyal, A., Pal, A., & Chauhan, B.** (2023). *Long-range SPR sensor employing platinum diselenide and cytop nanolayers giving improved performance.* _Physica B: Condensed Matter, 649_, 414487. [https://doi.org/10.1016/j.physb.2022.414487](https://doi.org/10.1016/j.physb.2022.414487)  
 
-4. **Panda, A., & Pukhrambam, P. D.** (2022).  
-   *Modeling of High-Performance SPR Refractive Index Sensor Employing Novel 2D Materials for Detection of Malaria Pathogens.*  
-   _IEEE Transactions on Nanobioscience, 21_(2), 312-319. [https://doi.org/10.1109/TNB.2021.3115906](https://doi.org/10.1109/TNB.2021.3115906)  
+4. **Panda, A., & Pukhrambam, P. D.** (2022). *Modeling of High-Performance SPR Refractive Index Sensor Employing Novel 2D Materials for Detection of Malaria Pathogens.* _IEEE Transactions on Nanobioscience, 21_(2), 312-319. [https://doi.org/10.1109/TNB.2021.3115906](https://doi.org/10.1109/TNB.2021.3115906)  
